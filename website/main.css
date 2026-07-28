@@ -1,9 +1,12 @@
 /* I am a css file */
 
 h1 {
-    text-align: center;
     color:black;
     font-family: "Exo 2", sans-serif;
+}
+
+#int {
+    text-align: center;
 }
 
 .font {

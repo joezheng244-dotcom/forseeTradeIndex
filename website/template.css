@@ -1,6 +1,26 @@
 h1{
-    text-align: center;
-    color: rgb(117, 88, 44);
-    font-size: 70px;
-    padding-bottom:5%;
+    text-align: left;
+    color: black;
+    font-size: 40px;
+}
+
+#pri{
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    width: 100%;
+}
+
+.stats {
+    display: flex;
+    flex-direction: column; /* stack the text vertically */
+}
+
+img {
+    width: 500px;
 }
